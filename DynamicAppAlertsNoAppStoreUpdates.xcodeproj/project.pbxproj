@@ -11,6 +11,7 @@
 		52C58C5C2B42CABA0052DF14 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C58C5B2B42CABA0052DF14 /* ContentView.swift */; };
 		52C58C5E2B42CABB0052DF14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C58C5D2B42CABB0052DF14 /* Assets.xcassets */; };
 		52C58C612B42CABB0052DF14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C58C602B42CABB0052DF14 /* Preview Assets.xcassets */; };
+		52C58C682B42CCB70052DF14 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C58C672B42CCB70052DF14 /* AlertService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		52C58C5B2B42CABA0052DF14 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52C58C5D2B42CABB0052DF14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52C58C602B42CABB0052DF14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		52C58C672B42CCB70052DF14 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				52C58C5B2B42CABA0052DF14 /* ContentView.swift */,
 				52C58C5D2B42CABB0052DF14 /* Assets.xcassets */,
 				52C58C5F2B42CABB0052DF14 /* Preview Content */,
+				52C58C672B42CCB70052DF14 /* AlertService.swift */,
 			);
 			path = DynamicAppAlertsNoAppStoreUpdates;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52C58C5C2B42CABA0052DF14 /* ContentView.swift in Sources */,
+				52C58C682B42CCB70052DF14 /* AlertService.swift in Sources */,
 				52C58C5A2B42CABA0052DF14 /* DynamicAppAlertsNoAppStoreUpdatesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
