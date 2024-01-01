@@ -15,6 +15,8 @@ struct DynamicAppAlertsNoAppStoreUpdatesApp: App {
                 .onAppear {
                     print(AlertService.appVersion)
                     print(AlertService.osVersion)
+                    print(AlertService.cachesLocation.path())
+                    print(AlertService.userDefaultsLocation.path())
                 }
         }
     }
