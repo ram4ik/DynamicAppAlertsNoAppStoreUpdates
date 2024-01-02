@@ -1,1 +1,1 @@
-#(DynamicAppAlertsNoAppStoreUpdates)
+# DynamicAppAlertsNoAppStoreUpdates
